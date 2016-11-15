@@ -1,0 +1,23 @@
+.nav-link {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  color: #464646;
+}
+
+.nav > li > a:hover {
+  background-color: #696969;
+  text-align: center;
+}
+
+.navbar-light {
+  background: #998675;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #464646;
+}
+
+
+.fa {
+  color: #464646;
+}
