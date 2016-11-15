@@ -30,43 +30,44 @@
       </div>
     </div>
 
-    <div class="container picture">
-        <div class="row">
+
+  <div class="row pull">
+    <div class="container">
+
           <div class="col-md-4">
             <h3>RIVER TRIP</h3>
-            <img src="lib/images/rivertrip1.png" class="img-responsive center-block" alt="">
+            <img src="lib/images/rivertrip1.png" class="img-responsive center-block imgThumb" alt="">
           </div>
 
           <div class="col-md-4">
             <h3>WILDLIFE</h3>
-            <img src="lib/images/wildlifepic1.jpg" class="img-responsive center-block" alt="">
+            <img src="lib/images/wildlifepic1.jpg" class="img-responsive center-block imgThumb" alt="">
           </div>
 
           <div class="col-md-4">
             <h3>RIVER TRIP</h3>
-            <img src="lib/images/rivertrip1.png" class="img-responsive center-block" alt="">
+            <img src="lib/images/rivertrip1.png" class="img-responsive center-block imgThumb" alt="">
           </div>
-        </div>
+          <div class="container">
 
-          <hr>
-          <div class="row">
+
             <div class="col-md-4">
              <h3>WILD LIFE</h3>
-             <img src="lib/images/wildlifepic1.jpg" class="img-responsive center-block" alt="">
+             <img src="lib/images/wildlifepic1.jpg" class="img-responsive center-block imgThumb" alt="">
             </div>
 
             <div class="col-md-4">
               <h3>RIVER TRIP</h3>
-              <img src="lib/images/rivertrip1.png" class="img-responsive center-block" alt="">
+              <img src="lib/images/wildlifepic1.jpg" class="img-responsive center-block imgThumb" alt="">
             </div>
 
             <div class="col-md-4">
              <h3>WILD LIFE</h3>
-             <img src="lib/images/wildlifepic1.jpg" class="img-responsive center-block" alt="">
+             <img src="lib/images/rivertrip1.png" class="img-responsive center-block imgThumb" alt="">
            </div>
-          </div>
-
-       </div>
+      </div>
+    </div>
+  </div>
 
 
     <?php require_once ("lib/partials/scripts.php");?>
