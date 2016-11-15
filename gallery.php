@@ -33,40 +33,39 @@
 
   <div class="row pull">
     <div class="container">
-
           <div class="col-md-4">
-            <h3>RIVER TRIP</h3>
+            <h2>RIVER TRIP</h2>
             <img src="lib/images/rivertrip1.png" class="img-responsive center-block imgThumb" alt="">
           </div>
 
           <div class="col-md-4">
-            <h3>WILDLIFE</h3>
-            <img src="lib/images/wildlifepic1.jpg" class="img-responsive center-block imgThumb" alt="">
+            <h2>WILDLIFE</h2>
+            <img src="lib/images/rivertrip1.png" class="img-responsive center-block imgThumb" alt="">
           </div>
 
           <div class="col-md-4">
-            <h3>RIVER TRIP</h3>
+            <h2>RIVER TRIP</h2>
             <img src="lib/images/rivertrip1.png" class="img-responsive center-block imgThumb" alt="">
           </div>
+        </div>
+
+
           <div class="container">
-
-
             <div class="col-md-4">
-             <h3>WILD LIFE</h3>
+             <h2>WILD LIFE</h2>
              <img src="lib/images/wildlifepic1.jpg" class="img-responsive center-block imgThumb" alt="">
             </div>
 
             <div class="col-md-4">
-              <h3>RIVER TRIP</h3>
+              <h2>RIVER TRIP</h2>
               <img src="lib/images/wildlifepic1.jpg" class="img-responsive center-block imgThumb" alt="">
             </div>
 
             <div class="col-md-4">
-             <h3>WILD LIFE</h3>
-             <img src="lib/images/rivertrip1.png" class="img-responsive center-block imgThumb" alt="">
+             <h2>WILD LIFE</h2>
+             <img src="lib/images/wildlifepic1.jpg" class="img-responsive center-block imgThumb" alt="">
            </div>
       </div>
-    </div>
   </div>
 
 
