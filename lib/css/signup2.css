@@ -1,0 +1,83 @@
+body {
+  background: #464646;
+}
+
+.jumbotron {
+  background-color: #998675;
+  height: 80vh;
+  text-align: center;
+  color: white;
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+}
+
+@media (max-width: 766px) {
+  .jumbotron h1 {
+    font-size: 32px;
+  }
+}
+
+.circle1 {
+  height: 200px;
+  width: 200px;
+  border: 1px solid white;
+  border-radius: 50%;
+  background: #696969;
+  margin-top: 90px;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 1.6em;
+  color: white;
+}
+
+@media (max-width: 766px) {
+  .circle1 {
+    height: 200px;
+    width: 200px;
+    border: 2px solid #464646;
+    border-radius: 50%;
+    background: #c6b299;
+    margin-top: 90px;
+    visibility: hidden;
+  }
+}
+
+.push {
+  top: 250px;
+  position: absolute;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+.test {
+  top: 740px;
+  position: absolute;
+  text-align: center;
+  }
+
+.container {
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+}
+
+form {
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+  color: white;
+}
+
+@media (max-width: 766px) {
+  form {
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: center;
+  }
+}
+
+.form-control {
+  color: white;
+  background-color: #c6b299;
+}
