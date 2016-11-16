@@ -189,16 +189,13 @@ h6 {
  margin-bottom: 20px;
 }
 
-
-
-.container{
-  padding: auto;
-}
-
-h1{
+#heading h1{
+  text-align: center;
   color: white;
-  text-align: justify;
+  font-size: 5rem;
+  padding-top: 0 auto;
 }
+
 h2, p {
   font-size: 1.5em;
   color: white;

@@ -20,31 +20,33 @@
     </div>
 
 
-    <div class="col-md-4 side">
-        <figure class="circle">
-          <img src="lib/images/rivertrip1.png" alt="sq-sample14" />
-          <figcaption><a href="#"><p>Sign up</p></a></figcaption>
-          <a href="#"></a>
-        </figure>
-    </div>
-      <div class="col-md-4 push">
-           <img src="lib/images/logo.png" class="logo img-fluid animated bounceInUp" alt="" />
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4 side">
+            <figure class="circle">
+              <img src="lib/images/rivertrip1.png" alt="sq-sample14" />
+              <figcaption><a href="#"><p>Sign up</p></a></figcaption>
+              <a href="#"></a>
+            </figure>
+        </div>
+          <div class="col-md-4 push">
+               <img src="lib/images/logo.png" class="logo img-fluid animated bounceInUp" alt="" />
+          </div>
+        <div class="col-md-4 side">
+            <figure class="circle">
+              <img src="lib/images/rivertrip1.png" alt="sq-sample14" />
+              <figcaption><a href="#"><p>Learn More</p></a></figcaption>
+              <a href="#"></a>
+            </figure>
+        </div>
       </div>
-    <div class="col-md-4 side">
-        <figure class="circle">
-          <img src="lib/images/rivertrip1.png" alt="sq-sample14" />
-          <figcaption><a href="#"><p>Learn More</p></a></figcaption>
-          <a href="#"></a>
-        </figure>
     </div>
 
-
-      <h1>Gallery</h1>
-
-
-
-
-
+      <div class="container" id="heading">
+        <div class="row">
+          <h1>Gallery</h1>
+        </div>
+      </div>
 
     <div class="container">
       <div class="row">
