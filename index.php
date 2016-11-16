@@ -18,8 +18,6 @@
       </div>
     </div>
 
-
-
       <div class="col-md-4 side">
           <figure class="circle">
             <img src="lib/images/rivertrip1.png" alt="sq-sample14" />

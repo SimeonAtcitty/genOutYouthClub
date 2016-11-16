@@ -147,28 +147,91 @@ body {
   text-align: center;
 }
 
-.card {
- font-family: 'PT Mono', monospace;
- text-align: center;
- background: #464646;
- color: white;
- margin-top: -65px;
- border: none;
+.about {
+  margin-bottom: 240px;
 }
 
-.card-header {
-  color: white;
-  background: #464646;
-  border: none;
-  margin-bottom: -9px;
-}
-
-.top {
-  font-family: 'PT Mono', monospace;
+.lead {
   text-align: center;
   color: white;
+  font-family: 'Roboto', sans-serif;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-bottom: 3px;
+  text-transform: uppercase;
+  font-size: 22px;
+  margin-top: -200px;
 }
 
-.contact {
-  margin-top: -165px;
+.text {
+  text-align: center;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  margin-left: 150px;
+  margin-right: 150px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.text1 {
+  text-align: center;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  margin-left: 45px;
+  margin-right: 45px;
+}
+
+h6 {
+  color: white;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+.card-block{
+  background: #696969;
+  border: 1px solid white;
+  margin-top: -100px;
+  text-align: center;
+}
+
+.card-title{
+  text-align: center;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+.card-text{
+  color: black;
+  font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+  margin-top: -190px;
+  font-size: 2.50rem;
+  font-family: 'Roboto', sans-serif;
+}
+
+.new{
+  text-align: center;
+  color: black;
+  font-family: 'Roboto', sans-serif;
+  padding: 28px;
+  padding-bottom: 15px;
+}
+
+h6{
+  color: black;
+  font-family:'Roboto', sans-serif;
+  padding: 15px;
+  padding-top: 15px;
+}
+
+.box{
+  background: #b3b3b3;
+  border: 1px solid white;
+  margin-top: 60px;
 }
