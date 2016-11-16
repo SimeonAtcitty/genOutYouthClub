@@ -209,7 +209,7 @@ h6 {
 
 h2 {
   text-align: center;
-  color: black;
+  color: white;
   margin-top: -190px;
   font-size: 2.50rem;
   font-family: 'Roboto', sans-serif;
@@ -219,10 +219,11 @@ h2 {
   text-align: center;
   color: black;
   font-family: 'Roboto', sans-serif;
-  padding: 25px;
+  padding: 28px;
+  padding-bottom: 15px;
 }
 
-h5{
+h6{
   color: black;
   font-family:'Roboto', sans-serif;
   padding: 15px;
@@ -230,7 +231,7 @@ h5{
 }
 
 .box{
-  background: #696969;
+  background: #b3b3b3;
   border: 1px solid white;
   margin-top: 60px;
 }

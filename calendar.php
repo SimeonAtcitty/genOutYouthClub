@@ -81,12 +81,12 @@
       <div class="row">
         <div class="col-md-12">
           <div class="item animated bounceInRight">
-            <h1 class="new">News Update</h1>
-            <h5>-Standing Rock Matters. More than 100 gallons of water and 1000 pounds of wood was donated last month.Thank you for all the assistance. We are fighting for water. Thank you so much,please contact us if you would like to donate.</h5>
+            <h3 class="new">News Update</h3>
+            <h6 class="size">-Standing Rock Matters. More than 100 gallons of water and 1000 pounds of wood was donated last month.Thank you for all the assistance. We are fighting for water. Thank you so much,please contact us if you would like to donate.</h6>
 
-            <h5>-On Tuesday evening the Bernalillo County Commissioners adopted a public lands resolution and a resolution to cut methane. Our communications director and deputy director spoke in support, read their comments on our website.</h5>
+            <h6 class="size">-On Tuesday evening the Bernalillo County Commissioners adopted a public lands resolution and a resolution to cut methane. Our communications director and deputy director spoke in support, read their comments on our website.</h6>
 
-            <h5>-This week, the U.S. Department of the Interior announced a new initiative to work more closely with Native Tribes across the US. Our Deputy Director wrote about the history of these treaties and what this new agreement means and how it can be a big step forward in honoring tribal sovereignty.</h5>
+            <h6 class="size">-This week, the U.S. Department of the Interior announced a new initiative to work more closely with Native Tribes across the US. Our Deputy Director wrote about the history of these treaties and what this new agreement means and how it can be a big step forward in honoring tribal sovereignty.</h6>
           </div>
         </div>
       </div>
